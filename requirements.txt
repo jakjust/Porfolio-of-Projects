@@ -7,4 +7,3 @@ matplotlib
 
 
 
-Add requirements.txt for Streamlit dependencies
