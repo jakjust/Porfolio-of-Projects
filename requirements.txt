@@ -1,10 +1,12 @@
 streamlit
-pandas 
+pandas
 numpy
-scipy.stats
-plotly.graph_objects
-matplotlib.pyplot
+scipy
+plotly
+matplotlib
 seaborn
-
+sympy
+yfinance
+autograd
 
 
